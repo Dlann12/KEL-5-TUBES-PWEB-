@@ -1,4 +1,4 @@
-##INSTALL LIBRARY NYA TERLEBIH DAHULU
+#INSTALL LIBRARY NYA TERLEBIH DAHULU
 
 npm install @fortawesome/fontawesome-svg-core \
   @fortawesome/fontawesome-common-types \
